@@ -1,0 +1,2 @@
+fstart = 2260E6; %(Hz) LFM start frequency for example based on our VCO
+fstop = 2590E6; %(Hz) LFM stop frequency for example based on our VCO
